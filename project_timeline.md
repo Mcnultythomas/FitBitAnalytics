@@ -1,15 +1,7 @@
 Current Estimated Timeline 9.11.2024 [excluding github repository organization]
 Step	Description	Estimated Timeline 
 
-1. Data Preparation	Clean, organize, and load data into MySQL.	4-6 hours
-2.1. Analyzing Sleep and Activity Correlation	Write and execute the query, analyze results.	2-3 hours
-2.2. Time of Day Analysis	Write and execute the query, analyze results.	2-3 hours
-2.3. Weekly Patterns in Low-Intensity Activities	Write and execute the query, analyze results.	2-3 hours
-2.4. Intensity Comparison	Write and execute the query, analyze results.	2-3 hours
-2.5. Behavioral Clusters	Write and execute the query, analyze results.	3-4 hours
-2.6. Impact of Low-Intensity Activities on Rest Days	Write and execute the query, analyze results.	2-3 hours
-2.7. Personalized Recommendations	Write and execute the query, analyze results.	3-4 hours
-3. Visualizing Data in Tableau	Export data, create visualizations, and refine.	6-8 hours
+
 ![image](https://github.com/user-attachments/assets/2c4df978-1def-43eb-84a5-a515d26cf6fa)
 
 
