@@ -6,5 +6,6 @@ Introduction: This passion project is analytical deep dive into a group of indiv
 
 DATA PREPARATION/CLEANING DOCUMENTATION:
 
-For ease of life I initually used the 'table data import' on my MySQL application available, MySQL Workbench.
+For ease of life, I initially used the 'table data import' on my MySQL application available, MySQL Workbench.
 [Please note prior to this project I set my local MySQL server connection.]
+
