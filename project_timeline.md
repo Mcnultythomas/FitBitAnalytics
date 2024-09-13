@@ -5,7 +5,7 @@ Current Estimated Timeline 9.11.2024 [excluding github repository organization]
 ![image](https://github.com/user-attachments/assets/2c4df978-1def-43eb-84a5-a515d26cf6fa)
 
 
-github repository organization plan (estimated 5 branches]
+github repository organization plan [estimated 5 branches]
 
 
 1. Created 'Main' branch - will be the location of the updated README.md, cleaned data instructions [original set is from kaggle.com, its url code is also located here], final SQL scripts, links to Tableau visualizations/reports.
