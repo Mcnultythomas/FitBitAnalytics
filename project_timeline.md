@@ -10,4 +10,4 @@ github repository organization plan (estimated 5 branches]
 2. Create the 'Data Preparation' branch - focus any syntax for loading/organizing data into MySQL, and my steps for cleaning it in WordPad or Excel.
 3. Create the 'SQL Analysis' branch - focus on my SQL script developmenent refining. Center hub for the discovery part of this project.
 4. Create the 'Data Visualization' branch - focus on the development of the visualizations along with being a place to export/refine/link any Tableau workbooks or screenshots.
-5. 5. Create the 'Report/Insights' branch - focus on creating reports, insights, and documentation. Reports focused on details surrounding SQL query results, clarity provided by Tableau, and overall conclusions.
+5. Create the 'Report/Insights' branch - focus on creating reports, insights, and documentation. Reports focused on details surrounding SQL query results, clarity provided by Tableau, and overall conclusions.
