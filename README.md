@@ -14,7 +14,7 @@ Create columns where needed (ie creating a month column).
 
 Uploading the clean data into MySQL workbench, and ensure data loads in/look correctly.  
 
-For ease of life, I initially used the 'table data import' on my MySQL application available, MySQL Workbench. 
+For ease of life, I initially used the 'table data import' on my MySQL application available, MySQL Workbench when available. 
 
  
 
